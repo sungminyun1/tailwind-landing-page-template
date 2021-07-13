@@ -14,7 +14,7 @@ function Home() {
 
       {/*  Site header */}
       <Header />
-
+      <span>이건뭐야</span>
       {/*  Page content */}
       <main className="flex-grow">
 
